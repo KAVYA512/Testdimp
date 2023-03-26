@@ -1,0 +1,4 @@
+EC2 is the amazonn elastic cloud compute.
+It is a web service from amazon that provides re-sizable compute services in the cloud.
+Amazon EC2 enables you to scale up or down to handle changes in requirements or spikes in popularity, reducing your need to forecast traffic.
+there are 5 types of instances.
